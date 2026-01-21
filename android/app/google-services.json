@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221967167062",
+    "project_id": "examecom-cc34d",
+    "storage_bucket": "examecom-cc34d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221967167062:android:a19acebd5c0b66d12c55f7",
+        "android_client_info": {
+          "package_name": "com.example.ecom_efm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQFZSUzPgVCrgOE53xMwDO4wn86UDw1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
